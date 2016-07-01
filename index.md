@@ -1,4 +1,5 @@
 ---
+layout: index
 Title: Test case
 ---
 ### Test for Markdown
